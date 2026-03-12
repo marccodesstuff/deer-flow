@@ -1,0 +1,19 @@
+==========================================
+  Starting DeerFlow Docker Development
+==========================================
+
+[0;34mDetected sandbox mode: local[0m
+[0;34mProvisioner disabled (not required for this sandbox mode).[0m
+
+[0;34mSetting DEER_FLOW_ROOT=/home/bictor0301/Code/deer-flow[0m
+
+[0;34mCreated extensions_config.json from example[0m
+Building and starting containers...
+
+The command 'docker' could not be found in this WSL 2 distro.
+We recommend to activate the WSL integration in Docker Desktop settings.
+
+For details about using Docker Desktop with WSL 2, visit:
+
+https://docs.docker.com/go/wsl2/
+
